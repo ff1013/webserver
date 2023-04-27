@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "new": "cpp",
+        "*.tcc": "cpp",
+        "functional": "cpp",
+        "limits": "cpp",
+        "type_traits": "cpp",
+        "fstream": "cpp",
+        "istream": "cpp",
+        "ostream": "cpp",
+        "sstream": "cpp",
+        "string": "cpp"
+    },
+    "C_Cpp.dimInactiveRegions": false
+}
